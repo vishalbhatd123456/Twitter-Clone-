@@ -1,5 +1,25 @@
 {
   "dependencies": {
+    "colors": "^1.4.0",
     "nodemon": "^2.0.20"
-  }
+  },
+  "name": "twitter-clone-",
+  "description": "A twitter close ,",
+  "version": "1.0.0",
+  "main": "basicServer.js",
+  "scripts": {
+    "test": "echo \"The project has no tests yet!",
+    "start": "node basicServer.js",
+    "doAnything": "node basicServer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalbhatd123456/Twitter-Clone-.git"
+  },
+  "author": "vishal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishalbhatd123456/Twitter-Clone-/issues"
+  },
+  "homepage": "https://github.com/vishalbhatd123456/Twitter-Clone-#readme"
 }
